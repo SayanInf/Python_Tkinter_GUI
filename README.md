@@ -1,5 +1,5 @@
 # Python_Tkinter_GUI
-This are some simple GUI Programs created by me when I first learned how to make Graphic User Interfaces. Obviously, I loved it in the first sight. :grinning:
+These are some simple GUI Programs created by me when I first learned how to make Graphic User Interfaces. Obviously, I loved it in the first sight. :grinning:
 
 >Software 1 - Calculator  
 
